@@ -1,0 +1,64 @@
+{
+    "HeaDer":{
+        "input":"Seach",
+        "Tab":{
+            "Home":"Home",
+            "Product":"Web templates available",
+            "Menu":"Menu",
+            "Introduce":"Introduce",
+            "Contact":"Contact"
+        }
+    },
+    "Body":{
+        "Home":{
+            "Title":"List of available Website templates",
+            "Button_Image":{
+                "Demo":"Demo",
+                "Information":"Information",
+                "Hide_Information":"Hide information",
+                "Contact":"Contact"
+            }
+        },
+        "Introduce":{
+            "Title":"Welcome to WEBTODAY",
+            "Text_Animation":"We provide web templates that are available on the site or written on request",
+            "Information":{
+                "The_First":{
+                    "Title":"1.For the samples available on the Web",
+                    "Content":"You can browse through the templates available on the Web to choose the right one for your job. When choosing the available templates, you just need to do the following:",
+                    "Body_1":"Sampling.",
+                    "Body_2":"Contact staff for advice and quotation (change of interface is allowed within the allowed range).",
+                    "Body_3":"Waiting time: After agreeing, staff will deploy 1-2 days and your website will be put into use."
+                },
+                "The_Second":{
+                    "Title":"2.Make Web on demand",
+                    "Content":"You can refer to the samples available on other parties, after choosing the model, you just need to do the following:",
+                    "Body_1":"Sampling.",
+                    "Body_2":"Contact staff for advice and quotes (staff will consider the complexity to quote detailed prices for customers).",
+                    "Body_3":"Waiting time: After agreeing, staff will deploy to serve customers in the shortest time."
+                },
+                "The_Third":{
+                    "Title":"3.Offers when using the WEBTODAY service",
+                    "Content":"After using WEBTODAY's services, customers will receive the following incentives:",
+                    "Body_1":"Lifetime warranty, 24/7 customer service, if something goes wrong, it will be fixed immediately.",
+                    "Body_2":"During use, if you have a need to expand and create more functions, we will serve you with the most favorable price.",
+                    "Body_3":"Setting up, upgrading vps, hosting or changing domain names, ... will be technically free for life."
+                }
+            }
+        },
+        "Contact":{
+            "Title":"Contact us through the following channels:"
+        },
+        "Tab":{
+            "Sell_Accounts":"Sell accounts",
+            "Construction_Industry":"Construction industry",
+            "Cosmetics_Industry":"Cosmetics industry",
+            "Fashion_Industry":"Fashion industry",
+            "Electronic_Industry":"Electronic industry",
+            "Food_Industry":"Food industry"
+        }
+    },
+    "Footer":{
+        "Title":"For further information please contact:"
+    }   
+}

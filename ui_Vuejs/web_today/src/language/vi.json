@@ -1,0 +1,65 @@
+{
+    "HeaDer":{
+        "Input":"Tìm kiếm",
+        "Tab":{
+            "Home":"Trang chủ",
+            "Product":"Mẫu Web có sẵn",
+            "Menu":"Danh mục",
+            "Introduce":"Giới thiệu",
+            "Contact":"Liên hệ"
+        }
+    },
+    "Body":{
+        "Home":{
+            "Title":"Danh sách mẫu Website có sẵn",
+            "Button_Image":{
+                "Demo":"Thửi nghiệm",
+                "Information":"Thông tin",
+                "Hide_Information":"Ẩn thông tin",
+                "Contact":"Liên hệ"
+            }
+        },
+        "Introduce":{
+            "Title":"Chào mừng bạn đến với WEBTODAY",
+            "Text_Animation":"Chúng tôi cung cấp những mẫu web có sẵn trên trang hoặc viết theo yêu cầu của quý khách",
+            "Information":{
+                "The_First":{
+                    "Title":"1.Đối với các mẫu có sẵn trên trang Web",
+                    "Content":"Quý khách có thể xem qua các mẫu có sẵn trên trang Web để lựa chọn mẫu phù hợp cho công việc của mình. Khi lựa chọn những mẫu có sẵn,quý khách chỉ cần làm như sau:",
+                    "Body_1":"Chọn mẫu.",
+                    "Body_2":"Liên hệ với nhân viên để được tư vấn và báo giá (được phép thay đổi giao diện trong phạm vi cho phép ).",
+                    "Body_3":"Thời gian chờ: Sau khi thống nhất, nhân viên sẽ triển khai từ 1-2 ngày và trang Web của bạn sẽ được đưa vào sử dụng."
+                },
+                "The_Second":{
+                    "Title":"2.Làm Web theo yêu cầu",
+                    "Content":"Quý khách có thể tham khảo các mẫu có sẵn trên của các bên khác, sau khi chọn được mẫu , quý khách chỉ cần làm như sau:",
+                    "Body_1":"Chọn mẫu.",
+                    "Body_2":"Liên hệ với nhân viên để được tư vấn và báo giá (nhân viên sẽ xem sét mức độ phức tạp để báo giá chi tiết cho khách hàng).",
+                    "Body_3":"Thời gian chờ: Sau khi thống nhất, nhân viên sẽ triển khai để phục vụ khách hàng trong thời gian sớm nhất."
+                },
+                "The_Third":{
+                    "Title":"3.Ưu đãi khi sử dụng dịch vụ WEBTODAY",
+                    "Content":"Sau khi sử dụng dịch vụ của WEBTODAY , khách hàng sẽ nhận được những ưu đãi sau:",
+                    "Body_1":"Bảo hành trọn đời, phục vụ quý khách 24/24, nếu chẳng may xảy ra sự cố sẽ được khắc phục ngay lập tức.",
+                    "Body_2":"Trong quá trình sử dụng, quý khách có nhu cầu mở rộng, và tạo thêm chức năng sẽ được chúng tôi phục vụ với giá ưu đãi nhất.",
+                    "Body_3":"Thiết lập, nâng cấp vps, hosting hoặc thay đổi tên miền,...sẽ được miễn phí trọn đời về mặt kĩ thuật."
+                }
+            }
+        },
+        "Contact":{
+            "Title":"Liên hệ với chúng tôi qua các kênh sau:"
+        },
+        "Tab":{
+            "Sell_Accounts":"Mua bán tài khoản",
+            "Construction_Industry":"Nghành Xây dựng",
+            "Cosmetics_Industry":"Nghành Mỹ phẩm",
+            "Fashion_Industry":"Nghành Thời trang",
+            "Electronic_Industry":"Nghành Điện tử",
+            "Food_Industry":"Nghành Thực phẩm"
+        }
+    },
+    "Footer":{
+        "Title":"Mọi thông tin xin liên hệ:"
+    }
+
+}
